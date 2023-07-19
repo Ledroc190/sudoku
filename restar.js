@@ -33,7 +33,7 @@ ev.target.appendChild(document.getElementById(data));
 if(arreglo[0] != "" && arreglo[1] != "" && arreglo[2] != "" && arreglo[3] != "" && arreglo[4] != "")
 {
 //controlo si hay coincidencia
-if(arreglo[0] == "c" && arreglo[1] == "b" && arreglo[2] == "a" && arreglo[3] == "e" && arreglo[4] == "d")
+if(arreglo[0] == "c" && arreglo[1] == "b" && arreglo[2] == "d" && arreglo[3] == "a" && arreglo[4] == "e")
 {
 document.querySelector("h2").innerHTML = "Excelente...";
 }else{

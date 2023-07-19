@@ -25,17 +25,18 @@
     <td class="contiene">-</td>
     <td class="no-contiene" id="0" ondrop="drop (event)" ondragover="allowDrop (event)"></td>
     <td class="contiene">=</td>
+    <td class="contiene">4</td>
+
+    </tr>
+    <tr>
+    <td class="contiene">-</td>
+    <td ></td>
+    <td class="contiene">-</td>
+    <td ></td>
+    <td class="contiene">-</td>
+    </tr>
+    <tr>
     <td class="no-contiene" id="1" ondrop="drop (event)" ondragover="allowDrop (event)"></td>
-    </tr>
-    <tr>
-    <td class="contiene">-</td>
-    <td ></td>
-    <td class="contiene">-</td>
-    <td ></td>
-    <td class="contiene">=</td>
-    </tr>
-    <tr>
-    <td class="contiene">7</td>
     <td class="contiene">-</td>
     <td class="no-contiene" id="2" ondrop="drop (event)" ondragover="allowDrop (event)"></td>
     <td class="contiene">=</td>
@@ -60,12 +61,10 @@
 <br>    
 <div class= "contenedor-alternativa">
     <div class="caja" draggable="true" ondragstart="drag (event)" id="a">3</div>
-    <div class="caja" draggable="true" ondragstart="drag (event)" id="b">4</div>
+    <div class="caja" draggable="true" ondragstart="drag (event)" id="b">7</div>
     <div class="caja" draggable="true" ondragstart="drag (event)" id="c">6</div>    
     <div class="caja" draggable="true" ondragstart="drag (event)" id="d">1</div>
     <div class="caja" draggable="true" ondragstart="drag (event)" id="e">4</div>
-
-
 </div>
 <br>
 <div class="marco">

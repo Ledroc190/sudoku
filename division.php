@@ -30,9 +30,9 @@
     </tr>
     <tr>
     <td class="contiene">/</td>
-    <td class="contiene">8</td>
+    <td></td>
     <td class="contiene">/</td>
-    <td class="contiene">4</td>
+    <td ></td>
     <td class="contiene">/</td>
     </tr>
     <tr>
@@ -43,9 +43,9 @@
     <td class="no-contiene" id="2" ondrop="drop (event)" ondragover="allowDrop (event)"></td>    </tr>
     <tr>
     <td class="contiene">=</td>
+    <td></td>
     <td class="contiene">=</td>
-    <td class="contiene">=</td>
-    <td class="contiene">=</td>
+    <td></td>
     <td class="contiene">=</td>
     </tr>
     <tr>

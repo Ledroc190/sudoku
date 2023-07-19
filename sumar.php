@@ -29,9 +29,9 @@
     </tr>
     <tr>
     <td class="contiene">+</td>
-    <td class="contiene">21</td>
+    <td ></td>
     <td class="contiene">+</td>
-    <td class="contiene">21</td>
+    <td ></td>
     <td class="contiene">+</td>
     </tr>
     <tr>
@@ -43,9 +43,9 @@
     </tr>
     <tr>
     <td class="contiene">=</td>
-    <td class="contiene">14</td>
+    <td></td>
     <td class="contiene">=</td>
-    <td class="contiene"></td>
+    <td ></td>
     <td class="contiene">=</td>
     </tr>
     <tr>
